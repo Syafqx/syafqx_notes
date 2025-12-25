@@ -5,6 +5,10 @@
 * BitWarden
 * SMPlayer
 * ffmpeg (yeah, it's kinda a dev stuff. But blender, krita, yt-dlp and others use them)
+* *Discord (though it's probably not necessary, download it if I want to use it)
+* #### Streaming
+  * OBS Studio
+  * TikTok LIVE Studio
 
 ---
 ### Gaming related
@@ -51,6 +55,7 @@
   * *st-link (if CubeProgrammer are too heavy)
   * arm-gcc
   * avr-gcc
+  * Arduino IDE 1.8
 
 
 ## MSYS2 setup
