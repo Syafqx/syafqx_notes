@@ -17,3 +17,7 @@ KineticScrollingEnabled=true
 
 ---
 As for the nagivagation, the tablet keybind config does it all.
+
+## External link
+* [Sketch V2 brushes](https://krita-artists.org/t/sketch-v2-sk2-pleasure-to-draw-including-colored-pencils-and-blenders/59552)
+* [Hard Brushes pack](https://krita-artists.org/t/hard-brushes-pack/92704)
